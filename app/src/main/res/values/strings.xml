@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RSSHabr</string>
+    <string name="news_name">Most popular news</string>
+    <string name="tag">tag</string>
+    <string name="news_text">To ensure balanced information density and usability, touch targets should be at least 48 x 48 dp. In most cases, there should be 8dp or more space between them.  Size elements at least 48dp high and wide to ensure a physical size of about 9mm regardless of screen size. The recommended target size for touchscreen objects is 7-10mm</string>
+    <string name="date">11-11-1111-san</string>
+</resources>
