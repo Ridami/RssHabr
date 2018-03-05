@@ -1,4 +1,4 @@
 # RssHabr
 
-simple rss feed
-requirements: recycler, SimpleXml, only support libs
+Simple rss feed; 
+requirements: use recycler, SimpleXml, "support" libs
